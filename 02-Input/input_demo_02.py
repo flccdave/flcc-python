@@ -1,5 +1,5 @@
 name = input("What is your name? ")
-print(f"Hello, {name.upper()}")
+print(f"Hello, {name.upper()}, welcome to The Rock")
 print(f"Hello, {name.capitalize()}")
 
 name = name.upper()
